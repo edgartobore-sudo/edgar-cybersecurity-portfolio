@@ -38,8 +38,8 @@ I am passionate about helping organizations improve their security posture. My g
 
 Contact Me
 Email: edgar.tobore@email.com  
-- 🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/engr-edgar-abanum)  
+- 🔗 LinkedIn:https://linkedin.com/in/engr-edgar-abanum 
 - Portfolio PDF: ()
 
-⭐ Feel free to explore my projects and connect with me!  
+Feel free to explore my projects and connect with me!  
 
