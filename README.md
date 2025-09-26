@@ -37,9 +37,9 @@ I am passionate about helping organizations improve their security posture. My g
 - Security Automation with Python  
 
 Contact Me
-Email: edgar.tobore@email.com  
+Email: edgar.tobore@gmail.com  
 - 🔗 LinkedIn:https://linkedin.com/in/engr-edgar-abanum 
-- Portfolio PDF: ()
+- Portfolio PDF: https://github.com/edgartobore-sudo/edgar-cybersecurity-portfolio/raw/refs/heads/main/Cybersecurity_Portfolio_%20Edgar%20Abanum.docx
 
 Feel free to explore my projects and connect with me!  
 
